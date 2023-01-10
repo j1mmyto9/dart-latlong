@@ -461,10 +461,10 @@
       "name": "latlong",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-01-10T13:38:20.402602Z",
+  "generated": "2023-01-10T13:52:21.414024Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }

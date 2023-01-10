@@ -209,7 +209,7 @@ main() {
     test(
         '> Center between Berlin and Moscow should be near Minsk '
         '(54.743683,25.033239)', () {
-      final Path path = new Path.from([cities['berlin'], cities['moscow']]);
+      final Path path = new Path.from([cities['berlin']!, cities['moscow']!]);
 
       expect(path.center.latitude, 54.743683);
       expect(path.center.longitude, 25.033239);

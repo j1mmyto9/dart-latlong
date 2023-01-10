@@ -5,7 +5,7 @@ homepage: https://github.com/MikeMitterer/dart-latlong
 version: 0.6.1
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   logging: ^1.1.0
@@ -15,7 +15,6 @@ dependencies:
 
 dev_dependencies:
   test: any
-
   build_runner: any
   build_test: any
   build_web_compilers: any
